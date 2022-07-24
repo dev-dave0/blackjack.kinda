@@ -1,5 +1,3 @@
-# blackjack.kinda
-Text based Blackjack game - Supports the basic rules of the card game Blackjack (some options such as splits not supported in this version)
 
 # blackjack.kinda
 A text based Blackjack game - Supports the basic rules of the card game Blackjack (some in-game options such as splits not supported in this version)
