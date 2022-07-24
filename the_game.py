@@ -1,4 +1,3 @@
-# Thank you for taking time to review my code!
 
 from cards import Cards
 from cards import true_values
@@ -99,11 +98,6 @@ while True:
     dealer_card = Cards(random.choice(suites), random.choice(values))
     dealer_count.append(true_values[dealer_card.value])
     print_dealer()
-
-
-
-
-# need to create instance where player is paid out on side bet
 
 
     # checks for side bet
@@ -250,16 +244,8 @@ while True:
             elif hit_again != "Y" and hit_again != "N":
                 print("Error, please enter 'Y' or 'N'..")
 
-
-
-
-
-
-
-
-
-# Issues with adding dealers total. Seems to be subtracting when it shoulnd't be.
-
+                
+                
 # dealers turn
     dealer_turn = True
     if dealer_turn and not game_over:
