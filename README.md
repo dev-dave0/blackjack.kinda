@@ -13,4 +13,4 @@ While lacking in some in-game rules and functionality, I felt that this program 
 of some of the core concepts of the Python language.
 
 
-Thank you to everyone who took the time to read through my code.  YOU_ALL == ("AWESOME!")
+Thank you to everyone who took the time to read through my code.  YOU_ALL = ("AWESOME!")
